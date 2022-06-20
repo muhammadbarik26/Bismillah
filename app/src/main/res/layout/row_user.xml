@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/tvNama"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Nama"/>
+    <TextView
+        android:id="@+id/tvNIK"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NIK"/>
+
+    <TextView
+        android:id="@+id/tvPenumpang"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jumlah Penumpang"/>
+
+    <TextView
+        android:id="@+id/tvKelamin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jenis Kelamin"/>
+
+    <TextView
+        android:id="@+id/tvAsal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kota Asal"/>
+
+    <TextView
+        android:id="@+id/tvTujuan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kota Tujuan"/>
+
+    <TextView
+        android:id="@+id/tvMaskapai"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Maskapai"/>
+</LinearLayout>

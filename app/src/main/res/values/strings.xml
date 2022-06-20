@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Bismillah</string>
+    <string name="Judul">Welcome In Bismillah</string>
+    <string name="Name">Masukkan Nama</string>
+    <string name="Password">Masukkan Password</string>
+    <string name="bSignIn">Sign-In</string>
+    <string name="jnama">Nama</string>
+    <string name="jpass">Password</string>
+    <string name="tLogin">Login</string>
+    <string name="Register">Register</string>
+    <string name="judultask">Laman Pemesanan Tiket</string>
+    <string name="taskinsert">Masukkan Nama Penumpang</string>
+    <string name="juduljenistask">Masukkan NIK</string>
+    <string name="jenistask">Masukkan NIK</string>
+    <string name="timetask">Jumlah Penumpang</string>
+    <string name="lamatask">Masukkan Jumlah Penumpang</string>
+    <string name="welcomepeople">Selamat Datang di Aplikasi Bismillah</string>
+    <string name="succesinsert">Berhasil</string>
+    <string name="succestask">Ini Nama Penumpang</string>
+    <string name="succesjenis">Ini NIK</string>
+    <string name="succestime">Ini Jumlah Penumpang</string>
+    <string name="pleaseinsert">Task Harus Diisi!</string>
+    <string name="submit">Submit</string>
+    <string name="logout">LogOut</string>
+    <string name="sregister">Register</string>
+    <string name="inputnama">Masukkan Nama</string>
+    <string name="inputpassword">Masukkan Password</string>
+    <string name="semail">Email</string>
+    <string name="srepass">Password</string>
+    <string name="srpass">Re-Password</string>
+    <string name="inputmail">Masukkan Email</string>
+    <string name="newtodo">New User</string>
+    <string name="thisname">username</string>
+    <string name="jeniskelamin">Jenis Kelamin</string>
+    <string-array name="jnskelamin">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+    <string-array name="kttujuan">
+        <item>Yogyakarta</item>
+        <item>Jakarta</item>
+        <item>Pekanbaru</item>
+    </string-array>
+    <string-array name="ktasal">
+        <item>Yogyakarta</item>
+        <item>Jakarta</item>
+        <item>Pekanbaru</item>
+    </string-array>
+    <string-array name="maskapai">
+        <item>Garuda Indonesia</item>
+        <item>Batik Air</item>
+        <item>Citilink</item>
+    </string-array>
+</resources>

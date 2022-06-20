@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948172266889",
+    "project_id": "bismillah-45f64",
+    "storage_bucket": "bismillah-45f64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948172266889:android:f8069a938ebba0665c5558",
+        "android_client_info": {
+          "package_name": "com.example.bismillah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948172266889-5li4orf4i8lhambh53jri9t9jnru2jvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4YqlHGsuo8cYZMatUwsTedB9duHMelv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948172266889-5li4orf4i8lhambh53jri9t9jnru2jvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
